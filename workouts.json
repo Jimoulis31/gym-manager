@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Friday 20/3 2026",
+    "date": "21/03/2026",
+    "exercises": [
+      {
+        "name": "RDL",
+        "sets": 3,
+        "reps": 10,
+        "kg": "25 PER HAND"
+      },
+      {
+        "name": "Hanging Knee Raises",
+        "sets": 3,
+        "reps": 10,
+        "kg": "Body Weight"
+      },
+      {
+        "name": "\u03a0\u03c1\u03bf\u03c4\u03b1\u03c3\u03b5\u03b9\u03c2 \u039f\u03bc\u03c9\u03bd",
+        "sets": 3,
+        "reps": 7,
+        "kg": "7"
+      },
+      {
+        "name": "\u03a0\u03bb\u03b1\u03b3\u03b9\u03b5\u03c2 \u03a0\u03c1\u03bf\u03b2\u03bf\u03bb\u03b5\u03c2",
+        "sets": 3,
+        "reps": 12,
+        "kg": "16"
+      },
+      {
+        "name": "\u03a0\u03bb\u03b1\u03b3\u03b9\u03bf\u03c5\u03c2 \u039a\u03bf\u03b9\u03bb\u03b9\u03b1\u03ba\u03bf\u03c5\u03c2 \u03a4\u03c1\u03bf\u03c7\u03b1\u03bb\u03b9\u03b1",
+        "sets": 3,
+        "reps": 10,
+        "kg": "3 \u03c0\u03bb\u03b1\u03ba\u03b5\u03c2"
+      },
+      {
+        "name": "\u0393\u03b1\u03bc\u03c0\u03b5\u03c2 Smtith",
+        "sets": 3,
+        "reps": 15,
+        "kg": "70"
+      },
+      {
+        "name": "Abs wheel",
+        "sets": 3,
+        "reps": 10,
+        "kg": "Body Weight"
+      },
+      {
+        "name": "Scalpula Pullups",
+        "sets": 3,
+        "reps": 7,
+        "kg": "Body Weight"
+      }
+    ],
+    "notes": ""
+  }
+]

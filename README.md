@@ -47,14 +47,3 @@ designed to help you log, track, and analyse your gym progress over time.
 ## Author
 
 Made by Jimoulis31
-```
-
-**Step 4 — Push everything**
-```
-git add .
-```
-```
-git commit -m "Improve README and add screenshot"
-```
-```
-git push
